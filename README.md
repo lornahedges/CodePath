@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://imgur.com/a/6PVN4vb.gif)
+![](https://https://imgur.com/a/Fv8kPBe.gif)
 
 GIF created with Kap 
 
