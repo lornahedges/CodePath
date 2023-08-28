@@ -10,23 +10,27 @@ Time spent: 5 hours spent in total
 
 The following **required** functionality is completed:
 
-- Users see a screen with three labels and a button
-- Tapping the button changes the screen color to a random color
+✅ Users see a screen with three labels and a button
+✅ Tapping the button changes the screen color to a random color
+
+Additionally, the following improvements are completed:
+
+✅ The text color of each label changes when the button is pressed
  
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-![](https://https://imgur.com/a/Fv8kPBe.gif)
+![](https://github.com/lornahedges/CodePath/blob/02e6f9e8ae6783d995692eb94ebf8b44c75e2973/Prework.gif)
 
-GIF created with Kap 
+GIF created with Kap
 
 
 ## App Brainstorming 
 
 1. Uber
  - Scheduling rides for a future date
- - 4 digit PIN verification when getting into the uber drivers car.
+ - 4 digit PIN verification when getting into the uber drivers car
 
 2. iMessage
 - Filtering by unread messages
